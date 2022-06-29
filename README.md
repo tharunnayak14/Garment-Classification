@@ -27,16 +27,16 @@ For example:
 
 <p>Here are some of the model's predictions on the validatation data</p>
 </br>
-<!-- <p align='center'>
+<p align='center'>
   <img src="./images/validation_preds">
-</p> -->
+</p>
 
 </br>
 <p>Here are some the model's prediction for unseen data</p>
 </br>
-<!-- <p align='center'>
+<p align='center'>
   <img src="./images/test_preds">
-</p> -->
+</p>
 
 
 
