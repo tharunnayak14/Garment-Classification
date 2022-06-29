@@ -29,14 +29,14 @@ For example:
 </br>
 <p align='center'>
   <img src="./images/validation_preds">
- </p>
+</p>
 
 </br>
 <p>Here are some the model's prediction for unseen data</p>
 </br>
 <p align='center'>
   <img src="./images/test_preds">
- </p>
+</p>
 
 
 
