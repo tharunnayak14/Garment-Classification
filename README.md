@@ -14,3 +14,30 @@ For example:
 - Writing a book
 - Kaggle competitions (as an external dataset)
 - Training an internal model at any company
+
+<p> Here are some images from the training set</p>
+</br>
+<p, align='center>
+  <img src="./images/train.jpg">
+</p>
+
+<p> I used 11 classes from the dataset,  I have used MobileNetv2 model and transfer learning to train on the data set and achieved a validation accuracy of 80% </p>
+
+</br>
+
+<p>Here are some of the model's predictions on the validatation data</p>
+</br>
+<p align='center'>
+  <img src="./images/validation_preds">
+ </p>
+
+</br>
+<p>Here are some the model's prediction for unseen data</p>
+</br>
+<p align='center'>
+  <img src="./images/test_preds">
+ </p>
+
+
+
+
