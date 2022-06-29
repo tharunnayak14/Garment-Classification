@@ -17,9 +17,9 @@ For example:
 
 <p> Here are some images from the training set</p>
 </br>
-<!-- <p align='center>
+<p align='center'>
   <img src="./images/train.jpg">
-</p> -->
+</p>
 
 <p> I used 11 classes from the dataset,  I have used MobileNetv2 model and transfer learning to train on the data set and achieved a validation accuracy of 80% </p>
 
