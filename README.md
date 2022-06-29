@@ -17,7 +17,7 @@ For example:
 
 <p> Here are some images from the training set</p>
 </br>
-<p, align='center>
+<p align='center>
   <img src="./images/train.jpg">
 </p>
 
